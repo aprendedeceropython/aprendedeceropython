@@ -1,3 +1,7 @@
+<div align="center">
+  <img  src="https://github.com/aprendedeceropython/aprendedeceropython/blob/main/github-header.png"/>
+</div> 
+
 # Por donde comenzar..
 
 ## ¿Eres novato/a y nunca has programado?
