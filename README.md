@@ -32,7 +32,7 @@ Esto ya es algo para estudiantes con conocimientos sólidos en Python, tendremos
 
 **Selecciona las prácticas de nivel [Avanzado](https://github.com/aprendedeceropython/Avanzado).**
 
-## Crees que lo sabes todo, pero quieres nuevos retos?
+## ¿Crees que lo sabes todo, pero quieres nuevos retos?
 
 - Prácticas de Front End.
 - Prácticas de uso de librerías y Frameworks en JS con Python.
