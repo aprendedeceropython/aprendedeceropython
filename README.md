@@ -1,42 +1,42 @@
-# Por donde comenzar
+# Por donde comenzar..
 
-## Eres novato y nunca has programado?
+## Eres novato/a y nunca has programado?
 
-Si eres novato y nunca has programado, haz llegado al sitio correcto.
-Aqui te daremos los conocimientos necesarios para que sea un pro mas de la programacion con python.  
-Aprenderas temas como el editor de texto a usar, desde su instalacion hasta tunearlo para que te sientas comodo.
-Tambien aprenderas sobre la herramienta que todo programador debe conocer (GITHUB), es la navaja suiza de los
-desarrolladores, ya que permitira llevar un control de cualquier cosa que quieras llevar un control.
-y por ultimo aprenderas Python, uno de los lenguajes de programacion mas difundidos de estos tiempos.
+Si eres novato/a y nunca has programado, has llegado al sitio correcto.
+Aquí te daremos los conocimientos necesarios para que seas un/a pro más de la programación con Python.
+Aprenderás temas como el editor de texto a usar, desde su instalación hasta tunearlo para que te sientas cómodo/a.
+También aprenderás sobre la herramienta que todo programador debe conocer (GitHub), que es la navaja suiza de los
+desarrolladores, ya que permitirá llevar un control de cualquier cosa que quieras controlar.
+Por último aprenderás Python, uno de los lenguajes de programación más difundidos de estos tiempos.
 
-**Selecciona las practicas Starter**
+**Selecciona las prácticas de nivel [Starter](https://github.com/aprendedeceropython/starter).**
 
-## Tienes algun conocimineto pero sientes que falta muchas cosas que aprender?
+## Tienes algún conocimiento, pero sientes que falta muchas cosas que aprender?
 
-Veo que has saltado la parte de novatos, es decir, conoces Python pero buscas algo mas que aprender,
-**el lado oscuro** que nadie te dice de Python.
-Pues estas practicas son para ti, podras aprender a crear librerias, subirlas a la [repo oficial de Python](https://pypi.org).
-Tambien a veremos como compartir librerias ocultando el codigo, depurar el codigo, tecnicas de programas y mas.
+Veo que has saltado la parte de novatos, es decir, conoces Python, pero buscas algo más que aprender,
+**el lado oscuro** que nadie te dice de Python;
+pues estas prácticas son para ti, podrás aprender a crear librerías, subirlas en el [indice oficial de paquetes para Python](https://pypi.org).
+También veremos como compartir librerías ocultando el código, depurar el código, técnicas de programación y mucho más.
 
-**Selecciona las practicas Nivel Intermedio**
+**Selecciona las prácticas de nivel [Intermedio](https://github.com/aprendedeceropython/medio).**
 
-## Quieres especializarte en algun topico en particular con python?
+## Quieres especializarte en algún tópico en particular con Python?
 
-Esto ya es algo para estudiantes con conocimientos solidos en Python, tendremos practicas en los siguientes apartados:
+Esto ya es algo para estudiantes con conocimientos sólidos en Python, tendremos prácticas en los siguientes apartados:
 
-- Flask
-- Django
-- API
-- Bots
-- y mas
+- Flask.
+- Django.
+- API.
+- Bots.
+- y más cosas.
 
-**Selecciona Las practicas nivel avanzado**
+**Selecciona las prácticas de nivel [Avanzado](https://github.com/aprendedeceropython/Avanzado).**
 
-## Crees que todos lo sabes, pero queres nuevos retos?
+## Crees que lo sabes todo, pero quieres nuevos retos?
 
-- Practicas de Front End
-- Practicas de uso de librerias y frameworks en JS con Python
-- Seguridad extrema
-- Buenas practicas de Seguridad en Python
+- Prácticas de Front End.
+- Prácticas de uso de librerías y Frameworks en JS con Python.
+- Seguridad extrema.
+- Buenas prácticas de Seguridad en Python.
 
-**Seleciona las practicas nivel Pro**
+**Selecciona las prácticas de nivel [Pro](https://github.com/aprendedeceropython/pro).**
